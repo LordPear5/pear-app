@@ -2,7 +2,7 @@ import { useState } from "react";
 import Header from "./components/Header.jsx";
 import Hero from "./components/Hero.jsx";
 import TreatPicker from "./components/TreatPicker.jsx";
-import CareChecklist from "./components/CareChecklist.jsx";
+import CareChecklist from "./components/CareCheckList.jsx";
 import WalkTracker from "./components/WalkTracker.jsx";
 import Footer from "./components/Footer.jsx";
 import "./index.css";
